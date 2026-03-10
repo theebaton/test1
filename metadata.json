@@ -1,0 +1,5 @@
+{
+  "name": "Course Training Dashboard",
+  "description": "A real-time dashboard to visualize and track training course data from Google Sheets.",
+  "requestFramePermissions": []
+}
